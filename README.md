@@ -24,10 +24,18 @@ untuk mengubah gambar yang invalid sRGBError menjadi bisa
 digunakan dengan cara run script tersebut.
 
 untuk menjalankan game ini cukup run main.py
+
 Arrow UP    - untuk memilih lagu
+
 Arrow DOWN  - untuk memilih lagu
+
 Arrow LEFT  - untuk memilih difficulty
+
 Arrow RIGHT - untuk memilih difficulty
+
      O      - untuk membuka options
+     
 S, D, K, L  - untuk main game
+
     ESC     - untuk keluar
+    
