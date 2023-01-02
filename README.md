@@ -20,6 +20,9 @@ dengan cara download lagu yang dipilih lalu extract file
 yang didownload, lalu pindahkan folder yang di extract ke 
 folder Songs.
 
+untuk pip yang perlu diinstall hanya pygame
+
+
 file "auto benerin .png.bat" di folder resources digunakan 
 untuk mengubah gambar yang invalid sRGBError menjadi bisa 
 digunakan dengan cara run script tersebut.
