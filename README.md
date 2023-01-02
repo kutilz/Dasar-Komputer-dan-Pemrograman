@@ -3,6 +3,7 @@
 ===========Dasar Komputer dan Pemrograman===========
 ----------------------------------------------------
 ============Ilyasa Nafan Faza - 2205965=============
+
 ========Zayid Thariq Ali Gumilang - 2209490=========
 
 
